@@ -9,7 +9,7 @@
  * @version 4.03
  */
  
- 
+ echo "hello";
 
 if (!defined('__CLASS_HTML2PDF__')) {
 
