@@ -1,6 +1,6 @@
 <?php
-/**
- * HTML2PDF Librairy - main class
+/** has
+ * HTML2PDF Librairy - main clas
  *
  * HTML => PDF convertor
  * distributed under the LGPL License
